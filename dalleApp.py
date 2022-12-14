@@ -1,3 +1,6 @@
+'''
+Credits: Siddhardhan(Youtube)
+'''
 import openai
 import urllib.request
 from PIL import Image
