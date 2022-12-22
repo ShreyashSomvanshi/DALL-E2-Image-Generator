@@ -1,4 +1,4 @@
 streamlit
 openai
-opencv
-PIL
+opencv == 4.6.0
+Pillow
