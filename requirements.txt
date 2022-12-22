@@ -1,4 +1,4 @@
 streamlit
 openai
-opencv == 4.6.0
+opencv-python
 Pillow
